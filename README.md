@@ -3,3 +3,4 @@
 UPdate support for MNTGE
 # 0.0.3 Support for Goodboiborzoi.
 # 0.0.31 Updated for Goodboi
+# 0.0.32 Updated for Good boi
